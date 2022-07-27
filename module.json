@@ -1,0 +1,33 @@
+{
+  "name": "the-fluffy-folio",
+  "title": "The Fluffy Folio",
+  "description": "Homebrew Monsters and Potions for your Dungeons &amp; Dragons worlds.",
+  "author": "The Fluffy Folio",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "the-fluffy-folio",
+      "label": "The Fluffy Folio",
+      "path": "./packs/the-fluffy-folio.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "private": false
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "",
+  "download": "",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
